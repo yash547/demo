@@ -4,13 +4,10 @@ The **Demo** is a project aimed at teaching students how to set up a project on 
 
 ## Features
 
-The **Project Title** project includes the following features:
+The **Demo** project includes the following features:
 
 - Spring Boot framework
 - CRUD API
-- Continuous integration and development
-- GitHub integration
-- Team collaboration
 
 ## How it Works
 
@@ -18,7 +15,7 @@ The **Demo** project is designed to teach students how to set up and work with a
 
 ## Installation
 
-To install the **Project Title** project, follow these steps:
+To install the **Demo** project, follow these steps:
 
 1. Clone the repository from GitHub.
 2. Install the required dependencies using Maven.
@@ -35,11 +32,11 @@ To use the **Demo** project, follow these steps:
 
 ## Continuous Integration and Development
 
-The **Project Title** project is set up with continuous integration and development using GitHub Actions. Whenever a commit is made to the master branch of the repository, the build is automatically triggered, and the project is tested. If the tests pass, the changes are automatically deployed to a staging environment for further testing. If the staging tests pass, the changes are automatically deployed to production.
+The **Demo** project is set up with continuous integration and development using GitHub Actions. Whenever a commit is made to the master branch of the repository, the build is automatically triggered, and the project is tested. If the tests pass, the changes are automatically deployed to a staging environment for further testing. If the staging tests pass, the changes are automatically deployed to production.
 
 ## Collaboration
 
-The **Project Title** project is designed for team collaboration. The project is set up with GitHub integration to enable seamless collaboration among team members. Team members can work on different branches of the repository, and changes can be reviewed and merged using pull requests.
+The **Demo** project is designed for team collaboration. The project is set up with GitHub integration to enable seamless collaboration among team members. Team members can work on different branches of the repository, and changes can be reviewed and merged using pull requests.
 
 ## Support
 
